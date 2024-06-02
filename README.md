@@ -5,5 +5,7 @@
 🌱 I’m currently learning React.js to level up my front-end development skills.
 <br>
 📫 How to reach me : Feel free to connect with me on LinkedIn. Link in Profile.
+<br>
 😄 Pronouns : He/Him
+<br>
 ⚡ Fun fact : Revving up code and burning rubber, building the web with horsepower and horsepower. 🏁💻
