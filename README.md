@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact : **🔧 Shifting gears between web dev and horsepower. 🚀 Crafting websites as smooth as a well-tuned engine. Let's code, race, and push the limits of both! 🖥️🏁**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coding1610&label=Profile%20views&color=0e75b6&style=flat" alt="coding1610" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashprajap23815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashprajap23815" height="30" width="40" /></a>
@@ -34,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding1610&" alt="coding1610" /></p>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding1610&show_icons=true&locale=en" alt="coding1610" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding1610&show_icons=true&locale=en&layout=compact" alt="coding1610" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coding1610&label=Profile%20views&color=0e75b6&style=flat" alt="coding1610" /> </p>
