@@ -4,17 +4,15 @@
 <h3 align="center">Passionate web/software developer from India. Love building elegant solutions to complex problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coding1610&label=Profile%20views&color=0e75b6&style=flat" alt="coding1610" /> </p>
+- 🔭 I’m currently working on : **MERN Stack and DSA**
 
-- 🔭 I’m currently working on **MERN Stack and DSA**
+- 🌱 I’m currently learning : **Node.js , Expresss**
 
-- 🌱 I’m currently learning **Node.js , Expresss**
+- 💬 Ask me about : **MongoDB, Express.js, React.js, Node.js**
 
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
+- 📫 How to reach me : **yp.70010@gmail.com**
 
-- 📫 How to reach me **yp.70010@gmail.com**
-
-- ⚡ Fun fact **🔧 Shifting gears between web dev and horsepower. 🚀 Crafting websites as smooth as a well-tuned engine. Let's code, race, and push the limits of both! 🖥️🏁**
+- ⚡ Fun fact : **🔧 Shifting gears between web dev and horsepower. 🚀 Crafting websites as smooth as a well-tuned engine. Let's code, race, and push the limits of both! 🖥️🏁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
