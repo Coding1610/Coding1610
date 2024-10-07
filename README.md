@@ -1,5 +1,5 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
-
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
+<br/>
 <h1 align="center">Hi 👋, I'm YASH PRAJAPATI</h1>
 <h3 align="center">Passionate web/software developer from India. Love building elegant solutions to complex problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
