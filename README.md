@@ -1,4 +1,4 @@
-![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
+![MasterHead](https://repository-images.githubusercontent.com/535853534/51dc23ec-3b75-421d-90e4-b30c678ac80e)
 <br/>
 <h1 align="center">Hi 👋, I'm YASH PRAJAPATI</h1>
 
