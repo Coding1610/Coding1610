@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/535853534/51dc23ec-3b75-421d-90e4-b30c678ac80e)
+![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 <br/>
 <h1 align="center">Hi 👋, I'm YASH PRAJAPATI</h1>
 
