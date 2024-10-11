@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on : **MERN Stack and DSA**
 
-- 🌱 I’m currently learning : **Node.js , Expresss**
+- 🌱 I’m currently learning : **Node.js , Express.js**
 
 - 💬 Ask me about : **MongoDB, Express.js, React.js, Node.js**
 
