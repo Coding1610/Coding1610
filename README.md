@@ -4,7 +4,6 @@
 
 <h3 align="center">Passionate web/software developer from India. Love building elegant solutions to complex problems.</h3>
 <br/>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
 - 🔭 I’m currently working on : **MERN Stack and DSA**
 
