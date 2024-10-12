@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm YASH PRAJAPATI</h1>
 
 <h3 align="center">Passionate web/software developer from India. Love building elegant solutions to complex problems.</h3>
-<br/>
 
 - 🔭 I’m currently working on : **MERN Stack and DSA**
 
