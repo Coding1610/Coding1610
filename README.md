@@ -5,13 +5,11 @@
 <h3 align="center">Passionate web/software developer from India. Love building elegant solutions to complex problems.</h3>
 <br/>
 
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400" align="right" padding="5"/>
-
 - 🔭 I’m currently working on : **MERN Stack and DSA**
 
-- 🌱 I’m currently learning : **Node.js , Express.js**
+- 🌱 I’m currently learning : **Typescript, Three.js**
 
-- 💬 Ask me about : **MongoDB, Express.js, React.js, Node.js**
+- 💬 Ask me about : **Frontend**
 
 - 📫 How to reach me : **yp.70010@gmail.com**
 
