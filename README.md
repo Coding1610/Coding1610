@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on : **Frontend Development and DSA**
 
-- 🌱 I’m currently learning : **Typescript, Three.js**
+- 🌱 I’m currently learning : **Typescript, React DND**
 
-- 💬 Ask me about : **Frontend**
+- 💬 Ask me about : **HTML , CSS , REACT , JS , TS --> Frontend**
 
 - 📫 How to reach me : **yp.70010@gmail.com**
 
