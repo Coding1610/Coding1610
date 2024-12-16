@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning : **Typescript, React DND**
 
-- 💬 Ask me about : **HTML , CSS , REACT , JS , TS --> Frontend**
+- 💬 Ask me about : **Frontend(HTML, CSS, JS, TS, React, Firebase)**
 
 - 📫 How to reach me : **yp.70010@gmail.com**
 
