@@ -1,1 +1,1 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=coding1610.visitor-badge&left_text=MyRepoVisitors)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Coding1610.Coding1610" />
