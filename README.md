@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Coding1610.Coding1610" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=coding1610&label=Profile%20views&color=0e75b6&style=flat" alt="coding1610" /> </p>
