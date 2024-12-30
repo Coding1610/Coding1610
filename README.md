@@ -10,15 +10,15 @@
 
 <div align="center">
 
-  🔭 I’m currently working on **My Portfolio**
-
   🌱 I’m currently learning **Three.js**
-  
-  💬 Ask me about **HTML, Tailwind CSS, Javascript, Typescript, React, Firebase**
 
   📫 How to reach me **yp.70010@gmail.com**
+  
+  🔭 I’m currently working on **My Portfolio**
 
-  ⚡ Fun fact **🔧 Shifting gears between web dev and horsepower. 🚀 Crafting websites as       smooth as a well-tuned engine. Let's code, race, and push the limits of both! 🖥🏁**
+  💬 Ask me about **HTML, Tailwind CSS, Javascript, Typescript, React, Firebase**
+
+  ⚡ Fun fact **🔧 Shifting gears between web dev and horsepower. 🚀 Crafting websites as smooth as a well-tuned engine. Let's code, race, and push the limits of both! 🖥🏁**
  
 </div>
 
