@@ -34,3 +34,11 @@
 <a href="https://www.naukri.com/code360/profile/yashu_016" target="_blank"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg?w=200&h=200" alt="yashu_016" height="35" width="35" /></a>
 
 </div>
+
+<hr/>
+
+<div align="center">
+
+  <h2>⚒️ Languages-Frameworks-Tools</h2>
+  
+</div>
