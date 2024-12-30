@@ -54,7 +54,7 @@
   
   <h2>🐍 My Contributions 🐍</h2>  
 
-  <img src="https://raw.githubusercontent.com/Coding1610/Coding1610/output/github-contribution-grid-snake.svg"/>
+  ![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
   
 </div>
 
