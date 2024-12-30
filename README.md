@@ -12,9 +12,9 @@
 
   🌱 I’m currently learning **Three.js**
 
-  📫 How to reach me **yp.70010@gmail.com**
-  
   🔭 I’m currently working on **My Portfolio**
+  
+  📫 How to reach me **yp.70010@gmail.com**
 
   💬 Ask me about **HTML, Tailwind CSS, Javascript, Typescript, React, Firebase**
 
