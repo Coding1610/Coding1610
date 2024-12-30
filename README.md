@@ -42,8 +42,8 @@
   <h2>⚒️ Languages Frameworks Tools ⚒️</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,javascript,typescript,react" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,vite,firebase,mongodb,figma,git"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,javascript,typescript,react,redux,router" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,vite,npm,firebase,mongodb,figma,git,pycharm"/>
   </a>
   
 </div>
