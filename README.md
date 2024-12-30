@@ -19,3 +19,19 @@
   ⚡ Fun fact **🔧 Shifting gears between web dev and horsepower. 🚀 Crafting websites as       smooth as a well-tuned engine. Let's code, race, and push the limits of both! 🖥🏁**
  
 </div>
+
+<br/>
+
+<div align="center" >
+
+<a href="https://twitter.com/yashprajap23815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashprajap23815" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/yash-prajapati-512451298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-prajapati-512451298" height="30" width="40" /></a>
+
+<a href="https://instagram.com/_yashu_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yashu_016" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/_yashu_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_yashu_016" height="30" width="40" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/yp700zgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yp700zgp" height="30" width="40" /></a>
+
+</div>
