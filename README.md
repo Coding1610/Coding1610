@@ -35,11 +35,15 @@
 
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
 
   <h2>⚒️ Languages Frameworks Tools ⚒️</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,html,css,tailwindcss,javascript,typescript,react" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,firebase,mongodb,figma,git"/>
+  </a>
   
 </div>
