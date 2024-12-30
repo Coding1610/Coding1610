@@ -62,12 +62,12 @@
 
 <div align="center">
 
-  <h2>⚡ Stats ⚡</h2>  
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding1610&show_icons=true&locale=en&layout=compact" alt="coding1610" />    </p>
+  <h2>⚡ Stats ⚡</h2>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding1610&show_icons=true&locale=en" alt="coding1610" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=coding1610&" alt="coding1610" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding1610&" alt="coding1610" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=coding1610&show_icons=true&locale=en" alt="coding1610" /></p>
+
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=coding1610&show_icons=true&locale=en&layout=compact" alt="coding1610" /></p>
   
 </div>
