@@ -35,10 +35,11 @@
 
 </div>
 
+<br/>
 <hr/>
 
 <div align="center">
 
-  <h2>⚒️ Languages-Frameworks-Tools</h2>
+  <h2>⚒️ Languages Frameworks Tools ⚒️</h2>
   
 </div>
