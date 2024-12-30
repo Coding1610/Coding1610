@@ -24,7 +24,7 @@
 
 <div align="center" >
 
-<a href="yp.70010@gmail.com" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/613/581/218/gmail-google-logo-email-computer-icons-gmail.jpg" alt="gmail" height="35" width="35" /></a>
+<a href="yp.70010@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=37246&format=png" alt="gmail" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/yash-prajapati-512451298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-prajapati-512451298" height="30" width="40" /></a>
 <a href="https://instagram.com/_yashu_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yashu_016" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_yashu_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_yashu_016" height="30" width="40" /></a>
