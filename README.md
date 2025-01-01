@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  🌱 I’m currently learning **Three.js**
+  🌱 I’m currently learning **GSAP**
 
   🔭 I’m currently working on **My Portfolio**
   
