@@ -68,6 +68,6 @@
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=coding1610&show_icons=true&locale=en" alt="coding1610" /></p>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=coding1610&" alt="coding1610" /></p>
+  <p><img src="https://camo.githubusercontent.com/1552cf5af5da1ca0a64524a59892ef79d20c2b11b5b184c12a44dd17c6cdb614/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d636f64696e673136313026" alt="coding1610" /></p>
   
 </div>
