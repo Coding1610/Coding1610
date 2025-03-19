@@ -12,7 +12,7 @@
 
   🌱 I’m currently learning **Next.js**
 
-  🔭 I’m currently working on **IP Tracker**
+  🔭 I’m currently working on **VibeCall**
   
   📫 How to reach me **yp.70010@gmail.com**
 
