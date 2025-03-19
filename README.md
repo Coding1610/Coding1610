@@ -16,7 +16,7 @@
   
   📫 How to reach me **yp.70010@gmail.com**
 
-  💬 Ask me about **HTML, Tailwind CSS, Javascript, Typescript, React, Firebase**
+  💬 Ask me about **HTML, Tailwind CSS, Javascript, Typescript, React.JS, Next.JS, Firebase**
 
   ⚡ Fun fact **🔧 Shifting gears between web dev and horsepower. 🚀 Crafting websites as smooth as a well-tuned engine. Let's code, race, and push the limits of both! 🖥🏁**
  
