@@ -10,11 +10,11 @@
 
 <div align="center">
 
-  🌱 I’m currently learning **Next.js**
+  🌱 I’m currently learning **Backend**
 
-  🔭 I’m currently working on **VibeCall**
+  🔭 I’m currently working on **SheetViz**
   
-  📫 How to reach me **yp.70010@gmail.com**
+  📫 How to reach me **toshalprajapati16@gmail.com**
 
   💬 Ask me about **HTML, Tailwind CSS, Javascript, Typescript, React.JS, Next.JS, Firebase**
 
