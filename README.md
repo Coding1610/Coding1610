@@ -10,9 +10,9 @@
 
 <div align="center">
 
-  🌱 I’m currently learning **Backend**
+  🌱 I’m currently learning **---**
 
-  🔭 I’m currently working on **SheetViz**
+  🔭 I’m currently working on **---**
   
   📫 How to reach me **toshalprajapati16@gmail.com**
 
