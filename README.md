@@ -10,11 +10,11 @@
 
 <div align="center">
 
-  🌱 I’m currently learning **---**
+  🌱 I’m currently learning **GoLang**
 
-  🔭 I’m currently working on **---**
+  🔭 I’m currently working on **RAG**
   
-  📫 How to reach me **toshalprajapati16@gmail.com**
+  📫 How to reach me **yashprajapatiwork10@gmail.com**
 
   💬 Ask me about **M E R N**
 
